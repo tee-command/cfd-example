@@ -13,3 +13,9 @@
 1 directory, 5 files
 ```
 
+## コンパイルと実行方法
+コンパイル方法
+```g++ -Wall -O2 main.c -o exec```
+
+実行方法
+```./exec```
